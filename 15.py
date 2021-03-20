@@ -66,3 +66,4 @@ def gobek_adi_yazdir(**kwargs):
 print (gobek_adi_yazdir(adi="Doganay", gobekadi="robot", soyadi="YILDIZ"))
 print (gobek_adi_yazdir(adi="Nikola", soyadi="TESLA"))
 
+#------------
